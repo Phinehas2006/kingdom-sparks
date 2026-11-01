@@ -36,6 +36,9 @@ news_feeds = {
     "Christian News Now": "https://christiannewsnow.com/feed/",
     "Christian Today": "https://www.christiantoday.com/rss/",
     "The Christian Post": "https://www.christianpost.com/rss",
+    "Christianity Today": "https://www.christianitytoday.com/feed/",
+    "Pew Research (Religion)": "https://www.pewresearch.org/topic/religion/feed/",
+    "Vatican News": "https://www.vaticannews.va/en.rss.xml",
 }
 
 humour_feeds = {
@@ -69,6 +72,8 @@ people = {
     "Cameroon church news": "",
     "Apostle N.F Roland": "roland",
     "Apostle E Paul Mbuagbor": "mbuagbor",
+    "Open Doors": "open doors",
+    "World Council of Churches": "world council of churches",
 }
 
 # These searches use Google's Cameroon edition instead of Nigeria's
